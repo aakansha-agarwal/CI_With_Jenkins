@@ -13,6 +13,7 @@ It automates building, testing, and deploying applications, allowing teams to de
 
 **Monitoring and Reporting:** Provides real-time insights into build and test statuses.
 
+
 **Using Jenkins in CI:**
 
 **Set Up Jenkins:** Install and connect it to your version control system.
